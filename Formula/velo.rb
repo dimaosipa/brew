@@ -4,7 +4,7 @@ class Velo < Formula
   url "https://github.com/dimaosipa/velocity/releases/download/v0.1.0/velo-v0.1.0-arm64.tar.gz"
   sha256 "placeholder_sha256_will_be_updated_after_first_release"
   license "BSD-2-Clause"
-  version "0.1.0"
+  version "0.0.1"
 
   depends_on arch: :arm64
   depends_on :macos

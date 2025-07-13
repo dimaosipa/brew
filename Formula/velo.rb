@@ -1,8 +1,8 @@
 class Velo < Formula
   desc "Swift-based drop-in replacement for Homebrew"
   homepage "https://github.com/dimaosipa/velocity"
-  url "https://github.com/dimaosipa/velocity/releases/download/0.0.1/velo-0.0.1-arm64.tar.gz"
-  sha256 "239208869ceb27533e108913af822b4d5170ca2e0bff86232df651cb18b5f011"
+  url "https://github.com/dimaosipa/velocity/releases/download/0.0.2/velo-0.0.2-arm64.tar.gz"
+  sha256 "843d715c3dbbff1d7139927e6dd613610b64c3eab65a19b79b28ff81cdb5cd3c"
   license "BSD-2-Clause"
   version "0.0.1"
 

@@ -4,7 +4,7 @@ class Velo < Formula
   url "https://github.com/dimaosipa/velocity/releases/download/0.0.2/velo-0.0.2-arm64.tar.gz"
   sha256 "843d715c3dbbff1d7139927e6dd613610b64c3eab65a19b79b28ff81cdb5cd3c"
   license "BSD-2-Clause"
-  version "0.0.1"
+  version "0.0.2"
 
   depends_on arch: :arm64
   depends_on :macos
